@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Api", "src\StarWars.Api\StarWars.Api.csproj", "{FA4D3038-13FF-4E9D-BCC8-5088870E7B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Domain", "src\StarWars.Domain\StarWars.Domain.csproj", "{03F1F043-E238-4BF6-A35E-BED977893041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Test", "src\StarWars.Test\StarWars.Test.csproj", "{1F438C11-E17B-4D20-A978-521DE9EA9015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4D3038-13FF-4E9D-BCC8-5088870E7B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4D3038-13FF-4E9D-BCC8-5088870E7B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4D3038-13FF-4E9D-BCC8-5088870E7B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4D3038-13FF-4E9D-BCC8-5088870E7B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F1F043-E238-4BF6-A35E-BED977893041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F1F043-E238-4BF6-A35E-BED977893041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F1F043-E238-4BF6-A35E-BED977893041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F1F043-E238-4BF6-A35E-BED977893041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F438C11-E17B-4D20-A978-521DE9EA9015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F438C11-E17B-4D20-A978-521DE9EA9015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F438C11-E17B-4D20-A978-521DE9EA9015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F438C11-E17B-4D20-A978-521DE9EA9015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B1547A7-F7D8-4425-BDBD-DB1C6819325B}
+	EndGlobalSection
+EndGlobal
