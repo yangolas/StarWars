@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yg0sdAr7wRSOnS4Ye+Zi07fUXB0Y75mjxGaPib6UeOz0DD0vRS7z2QtJMga+ZMjbxVHSwfYmSNlHVlpwJqV/0g==",
+  "dgSpecHash": "B0wrkI2cQdVGm0n387YBEw4Ch2YFqeGhM2X9lsPcnpXrnkc/QZjgge9/8cLPj4jRfruYq9XE42MH2ZOC4jPDGg==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Api\\StarWars.Api.csproj",
+  "projectFilePath": "C:\\Proyectos\\StarWars\\src\\StarWars.Api\\StarWars.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k5p+5L0DcLBP1xiyYSYqgn7zIxptBnGTsnOewgwZMp2fNL+LmradkUOi8SiapjH5h46bpSdFkrgykN+1xkXqPw==",
+  "dgSpecHash": "PUsOB8SDtjtyXvI2P1heeKlL6/AScQAfQzvEtr7qN1ws3bWNRQuboRo+I+yLKnRzrwSC7meIeRftGWuBPU7s8A==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Test\\StarWars.Test.csproj",
+  "projectFilePath": "C:\\Proyectos\\StarWars\\src\\StarWars.Test\\StarWars.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\fluentassertions\\6.10.0\\fluentassertions.6.10.0.nupkg.sha512",

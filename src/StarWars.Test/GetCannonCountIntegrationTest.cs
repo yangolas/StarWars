@@ -153,4 +153,14 @@ public class GetCannonCountIntegrationTest
         int cannons = _cannonLoader.GetCannonCount(heights);
         cannons.Should().Be(result);
     }
+
+    [Theory]
+    [InlineData(new uint[] { 1, 7, 1}, 1)]
+    public void Should_Get_Count_1(
+        IReadOnlyList<uint> heights,
+        int result)
+    {
+        int cannons = _cannonLoader.GetCannonCount(heights);
+        cannons.Should().Be(result);
+    }
 }

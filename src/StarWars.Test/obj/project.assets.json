@@ -6276,11 +6276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Test\\StarWars.Test.csproj",
+      "projectUniqueName": "C:\\Proyectos\\StarWars\\src\\StarWars.Test\\StarWars.Test.csproj",
       "projectName": "StarWars.Test",
-      "projectPath": "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Test\\StarWars.Test.csproj",
+      "projectPath": "C:\\Proyectos\\StarWars\\src\\StarWars.Test\\StarWars.Test.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Test\\obj\\",
+      "outputPath": "C:\\Proyectos\\StarWars\\src\\StarWars.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
@@ -6301,8 +6301,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Domain\\StarWars.Domain.csproj": {
-              "projectPath": "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Domain\\StarWars.Domain.csproj"
+            "C:\\Proyectos\\StarWars\\src\\StarWars.Domain\\StarWars.Domain.csproj": {
+              "projectPath": "C:\\Proyectos\\StarWars\\src\\StarWars.Domain\\StarWars.Domain.csproj"
             }
           }
         }

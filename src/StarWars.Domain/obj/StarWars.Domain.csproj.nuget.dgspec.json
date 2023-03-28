@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Domain\\StarWars.Domain.csproj": {}
+    "C:\\Proyectos\\StarWars\\src\\StarWars.Domain\\StarWars.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Domain\\StarWars.Domain.csproj": {
+    "C:\\Proyectos\\StarWars\\src\\StarWars.Domain\\StarWars.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Domain\\StarWars.Domain.csproj",
+        "projectUniqueName": "C:\\Proyectos\\StarWars\\src\\StarWars.Domain\\StarWars.Domain.csproj",
         "projectName": "StarWars.Domain",
-        "projectPath": "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Domain\\StarWars.Domain.csproj",
+        "projectPath": "C:\\Proyectos\\StarWars\\src\\StarWars.Domain\\StarWars.Domain.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\StarWars_Daniel_Yanguas_Duran\\src\\StarWars.Domain\\obj\\",
+        "outputPath": "C:\\Proyectos\\StarWars\\src\\StarWars.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
